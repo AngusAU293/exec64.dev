@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Ubuntu";
+    src: url("fonts/Ubuntu_Regular.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    background-color: rgb(10, 10, 15);
+}
+
+* {
+    color: white;
+    font-family: "Ubuntu", sans-serif;
+}
